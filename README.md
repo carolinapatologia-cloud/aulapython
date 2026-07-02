@@ -1,4 +1,4 @@
-# 🐍 Exercícios de Python
+# 🐍 Algoritmos em Python
 
 Este repositório contém os exercícios das aulas de introdução à programação em Python.
 
