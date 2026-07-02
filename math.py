@@ -1,0 +1,5 @@
+numero=input("Digite um número:")
+print(f"O número digitado foi: {numero}")
+numero2=input("Digite outro número:")
+print(f"O segundo número digitado foi: {numero2}")
+print(f"A soma dos dois números é: {int(numero)+int(numero2)}")

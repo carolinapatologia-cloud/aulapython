@@ -1,0 +1,5 @@
+print("\nTabela Simples")
+print("Nome            \tIdade")
+print("Ciclano Zueira  \t24")
+print("Beltrano Flopado\t25")
+print("Fulano Sicrano  \t33")
