@@ -39,6 +39,27 @@ Exercícios: **0 a 6**
 - [Exercício 6](cexercicio6.py)
 
 ---
+## Aula 3 - Estruturas de Controle
+Exercícios: **1 a 15**
+
+- [Exercício 0](cexercicio0.py)
+- [Exercício 1](cexercicio1.py)
+- [Exercício 2](cexercicio2.py)
+- [Exercício 3](cexercicio3.py)
+- [Exercício 4](cexercicio4.py)
+- [Exercício 5](cexercicio5.py)
+- [Exercício 6](cexercicio6.py)
+- [Exercício 7](cexercicio5.py)
+- [Exercício 8](cexercicio6.py)
+- [Exercício 9](cexercicio5.py)
+- [Exercício 10](cexercicio6.py)
+- [Exercício 11](cexercicio5.py)
+- [Exercício 12](cexercicio6.py)
+- [Exercício 13](cexercicio5.py)
+- [Exercício 14](cexercicio6.py)
+- [Exercício 15](cexercicio5.py)
+  
+
 
 ## 📌 Observações
 - Os arquivos estão na raiz do repositório.  
